@@ -1,0 +1,23 @@
+{
+  "name": "speech_recognition_javascript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manish4851/Speech-To-Text.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manish4851/Speech-To-Text/issues"
+  },
+  "homepage": "https://github.com/manish4851/Speech-To-Text#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
